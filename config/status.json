@@ -1,0 +1,4 @@
+{
+    "UNABLE_TO_CONNECT": "Unable to connect to ADS-B server at: ",
+    "INVALID_VALUE"    : "Invalid value provided"
+}
